@@ -8,6 +8,7 @@ You can run the script using a Python integrated development environment (IDE) s
 
 ## Dataset
 
+
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
 -   Start Time (e.g., 2017-01-01 00:07:57)
